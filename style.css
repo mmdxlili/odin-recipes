@@ -1,0 +1,47 @@
+.recipe-body {
+    background: linear-gradient(180deg, #fcff54, #ff4d4d);
+    height: auto;
+    text-align: center;
+    line-height: 2rem;
+}
+
+
+#main-body {
+    background-color: yellow;
+}
+
+
+.heading {
+    text-align: center;
+    color: darkred;
+}
+
+#list-of-recipes {
+    font-weight: 900;
+    font-size: larger;
+    list-style-type: disc;
+}
+
+#list-of-recipes li {
+    margin-bottom: 60px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ol,
+ul {
+    list-style-type: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
