@@ -45,3 +45,25 @@ ul {
     list-style-type: none;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+#list-of-recipes {
+    list-style: none;
+    text-align: center;
+}
+
+#salad-card,
+#smash-card,
+#ash-card {
+    border: #333 solid 1px;
+    display: inline-block;
+    width: 300px;
+    margin: 10px 50px;
+    background-color: #bfff35;    
+}
+
+.image {
+    display: block;
+    width: 150px;
+    height: 150px;
+    margin: 5px auto;
+}
